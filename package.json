@@ -1,5 +1,6 @@
 {
-  "name": "voucher-dia-dos-pais",
+  "name": "voucher-dia-dos-pais",  
+  "homepage": "https://nathanfrt.github.io/diadospais/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
