@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/diadospais/static/css/main.8dd6eb48.css",
+    "main.js": "/diadospais/static/js/main.c3554979.js",
+    "static/media/aves.jpg": "/diadospais/static/media/aves.5700dbe60d27e871bdb3.jpg",
+    "static/media/the best.jpg": "/diadospais/static/media/the best.cef0c4de704a91782b12.jpg",
+    "static/media/Pai01.jpeg": "/diadospais/static/media/Pai01.46caef9e95915a44db7f.jpeg",
+    "static/media/filhos.png": "/diadospais/static/media/filhos.725dd0537f31382d3dbb.png",
+    "static/media/Pai10.jpeg": "/diadospais/static/media/Pai10.77f68cedcb8cd5ce972e.jpeg",
+    "static/media/Pai05.jpeg": "/diadospais/static/media/Pai05.962001eb5f3bdd571319.jpeg",
+    "static/media/Pai03.jpeg": "/diadospais/static/media/Pai03.7d07d2828828494ec983.jpeg",
+    "static/media/Pai04.jpeg": "/diadospais/static/media/Pai04.5cbabb958a0e019cfc08.jpeg",
+    "static/media/suv.jpg": "/diadospais/static/media/suv.74f0cfcea4e520890ba7.jpg",
+    "static/media/Pai07.jpeg": "/diadospais/static/media/Pai07.a35944d7415cc3367ede.jpeg",
+    "static/media/Pai09.jpeg": "/diadospais/static/media/Pai09.bd527dd146e8ce0e02c8.jpeg",
+    "static/media/Pai02.jpeg": "/diadospais/static/media/Pai02.e8f244b33815e78a44b6.jpeg",
+    "static/media/roda.jpg": "/diadospais/static/media/roda.48515d52211aa806e8fc.jpg",
+    "static/media/Pai06.jpeg": "/diadospais/static/media/Pai06.f931ccfed86784c73a51.jpeg",
+    "static/media/Pai12.jpeg": "/diadospais/static/media/Pai12.e23307ab9c85427d36fe.jpeg",
+    "static/media/apple.jpg": "/diadospais/static/media/apple.3c4d8f25dcb1a97a68cb.jpg",
+    "static/media/marco.jpg": "/diadospais/static/media/marco.83ad7918e5045b4e3f0f.jpg",
+    "static/media/br.jpg": "/diadospais/static/media/br.7fc8593eb10b99a82e6a.jpg",
+    "static/media/Pai08.jpeg": "/diadospais/static/media/Pai08.cc727fce0df9f6a93ca0.jpeg",
+    "static/media/Pai11.jpeg": "/diadospais/static/media/Pai11.23c4d7cf98e18897cdd1.jpeg",
+    "static/media/ingressos.jpg": "/diadospais/static/media/ingressos.fadde7426fd7f2d17cb7.jpg",
+    "static/media/arg.jpg": "/diadospais/static/media/arg.1b5170ce208581365311.jpg",
+    "static/media/dreams.jpg": "/diadospais/static/media/dreams.7ec903601002acc648c8.jpg",
+    "index.html": "/diadospais/index.html",
+    "main.8dd6eb48.css.map": "/diadospais/static/css/main.8dd6eb48.css.map",
+    "main.c3554979.js.map": "/diadospais/static/js/main.c3554979.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dd6eb48.css",
+    "static/js/main.c3554979.js"
+  ]
+}
