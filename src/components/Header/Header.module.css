@@ -1,0 +1,56 @@
+.header{
+    color: #3c3c5d;
+    font-weight: bold;
+    text-align: center;    
+}
+
+.header img {
+    width: 100%;
+}
+.nav {margin-bottom: 35px;    }
+
+.nav label{
+    font-size: 15px;
+    margin: 0px 30px;
+    font-size: 21px;
+    letter-spacing: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out; 
+    gap: 2.5rem;
+}
+
+.nav label:hover {
+    color: #414153;
+}
+
+.bannerH1 {    
+    letter-spacing: 15px;
+    font-size: 70px;    
+    color: #ffffffeb;
+    font-family: fantasy;
+    text-transform: uppercase;
+}
+
+.bannerP {
+    font-size: 25px;
+    letter-spacing: 6px;    
+    color: #ffffffeb;
+    font-weight: 400;
+}
+
+@media (max-width: 768px){
+    .bannerH1 {    
+    letter-spacing: 5px;
+    font-size: 20px;    
+    color: #ffffffeb;
+    font-family: fantasy;
+    text-transform: uppercase;
+}
+
+.bannerP {
+    font-size: 10px;
+    letter-spacing: 2px;    
+    color: #ffffffeb;
+    font-weight: 400;
+}
+}

@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+}
+
+.description{
+    margin: 0% 20%;
+    text-align: justify;
+}
+
+.imgFilhos {
+    justify-self: center;
+}
+
+.imgFilhos img {
+    width: 90%;
+}

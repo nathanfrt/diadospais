@@ -1,0 +1,161 @@
+.approaches {
+    margin: 95px auto;
+}
+
+.theme {
+    border-color: transparent;
+    margin-top: 6%;
+}
+
+.theme .iconCard,
+.modalCards .iconCard {
+    width: 100%;
+    margin: 0px;
+    padding: 5px;
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+
+.theme .content .title,
+.modalCards .content .title {
+    font-weight: bold;
+    font-size: 16px;
+    height: 55px;
+    margin: auto 6px;
+}
+
+.theme .content .description,
+.modalCards .content .description {
+    margin: 0px 35px;
+    text-align: left;
+    font-size: 14px;
+}
+
+.theme .content,
+.modalCards .content {
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: transparent;
+    color: white;
+    background: #393939;
+    margin: 0px 10px;
+    height: 540px;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.theme .content:hover,
+.modalCards .content:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.6);
+    background: #151821;
+}
+
+.theme .content .icon,
+.modalCards .content .icon {
+    
+    align-items: center;
+    margin: 10px 20px;
+}
+
+.modalOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    overflow: auto;
+}
+
+.modalContent {
+    background: #fff;
+    padding: 30px;
+    border-radius: 16px;
+    position: relative;
+    text-align: left;
+    max-height: 90vh;
+    overflow-y: auto;
+}
+
+.modalCategory {
+    font-size: 10px !important;
+    margin-bottom: 20px;
+}
+
+.modalCategory .content:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.6);
+}
+
+
+.card,
+.modalCards {
+    margin: 0px 55px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.introduction {    
+    width: 100%;
+    margin: 0px 80px;
+}
+
+.introduction p {
+    white-space: nowrap;
+    font-weight: bold;
+}
+
+.introduction p:first-child {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card button:hover,
+.modalCards .buttonp:hover {
+    background: #39776d !important;
+}
+
+.card .description,
+.modalCards .description {
+    position: relative;
+    text-align: center;
+    margin: 20px !important;
+}
+
+.buttons button:first-child {
+    background: #1e232f !important;
+    margin-bottom: 20px !important;
+}
+
+.buttons button:first-child:hover {
+    background: #414a61 !important;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.buttont a {
+    color: white;
+    text-decoration: none;
+}
+
+.modalCards .content {
+    height: 250px;
+}
+
+@media (max-width: 768px){
+.introduction {    
+    width: 100%;
+    margin: 0px 0px;
+}
+
+}
