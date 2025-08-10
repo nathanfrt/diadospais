@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import styles from "./Homage.module.css";
 import filhos from "../../Images/filhos.png";
 

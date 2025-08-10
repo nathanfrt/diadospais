@@ -1,11 +1,9 @@
-import React, { useState } from "react";
 import styles from "./Header.module.css";
 import papai from "../../Images/the best.jpg";
 
 function Header() {
     return (
-    <header className="bg-light border-bottom">
-        {/* Navegação */}
+    <header className="bg-light border-bottom">        
         <nav className="container py-3">
             <ul className="nav justify-content-center">
                 <li className="nav-item">
@@ -20,7 +18,6 @@ function Header() {
             </ul>
         </nav>
 
-        {/* Banner */}
 <div className="position-relative text-center">
     <img
         src={papai}
