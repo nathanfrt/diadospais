@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/diadospais/static/css/main.8dd6eb48.css",
+    "main.css": "/diadospais/static/css/main.4d39be93.css",
     "main.js": "/diadospais/static/js/main.c3554979.js",
     "static/media/aves.jpg": "/diadospais/static/media/aves.5700dbe60d27e871bdb3.jpg",
     "static/media/the best.jpg": "/diadospais/static/media/the best.cef0c4de704a91782b12.jpg",
@@ -26,11 +26,11 @@
     "static/media/arg.jpg": "/diadospais/static/media/arg.1b5170ce208581365311.jpg",
     "static/media/dreams.jpg": "/diadospais/static/media/dreams.7ec903601002acc648c8.jpg",
     "index.html": "/diadospais/index.html",
-    "main.8dd6eb48.css.map": "/diadospais/static/css/main.8dd6eb48.css.map",
+    "main.4d39be93.css.map": "/diadospais/static/css/main.4d39be93.css.map",
     "main.c3554979.js.map": "/diadospais/static/js/main.c3554979.js.map"
   },
   "entrypoints": [
-    "static/css/main.8dd6eb48.css",
+    "static/css/main.4d39be93.css",
     "static/js/main.c3554979.js"
   ]
 }
